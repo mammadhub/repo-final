@@ -1,0 +1,23 @@
+.width{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    // align-items: center;
+    .navbarr{
+        width: 60%;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        background-color: transparent;
+        .listt{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 1rem;
+        }
+        .icon{
+            min-width: 70px;
+            font-size: 150%;
+        }
+    }
+}

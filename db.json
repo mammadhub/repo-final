@@ -1,0 +1,22 @@
+{
+    "card":[
+        {
+            "id":1,
+            "img":"./intro-01.jpg",
+            "title":"Romantic Resturant",
+            "para":"Phasellus lorem enim, luctus ut velit eget, con-vallis egestas eros."
+        },
+        {
+            "id":2,
+            "img":"./intro-02.jpg",
+            "title":"Delicios Food",
+            "para":"Aliquam eget aliquam magna, quis posuere risus ac justo ipsum nibh urna"
+        },
+        {
+            "id":3,
+            "img":"./intro-04.jpg",
+            "title":"You Love",
+            "para":"Sed ornare ligula eget tortor tempor, quis porta tellus dictum."
+        }
+    ]
+}
